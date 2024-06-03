@@ -1,0 +1,17 @@
+h2, h3{
+    color:black;
+    text-align: center;
+    text-decoration: line-through;
+    background-color: aquamarine;
+
+}
+body{background-color: pink;}
+.box{
+    border: 1px solid green;
+    border-radius: 6px;
+    width: 200;
+    height: 100;
+    padding: 15px;
+    font-size: 20px;
+    text-align: center;
+}
